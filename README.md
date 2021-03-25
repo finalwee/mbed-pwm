@@ -8,3 +8,5 @@ This example shows how to use PwmOut to modulate LED blinking.
 MIRRORED FROM MASTER EXAMPLE SNIPPETS REPOSITORY: mbed-os-examples-docs_only.
 ANY CHANGES MADE DIRECTLY TO THIS REPOSITORY WILL BE AUTOMATICALLY OVERWRITTEN.
 # mbed-pwm
+
+![](./report/3LED.gif)
